@@ -3,7 +3,7 @@
 Este projeto utiliza Machine Learning e Processamento de Linguagem Natural (NLP) para analisar e classificar Pokémon com base em suas descrições biológicas e atributos de performance.
 
 - Escopo de Treinamento vs. Aplicação Real
-  Treinamento e Teste: O modelo foi treinado, testado e validado utilizando exclusivamente os dados dos 151 Pokémon da Primeira Geração (Kanto).
+  Treinamento e Teste: O modelo foi treinado, testado e validado utilizando exclusivamente os dados dos 151 Pokémon da Primeira Geração (Kanto). \n
   Versatilidade da Aplicação: Apesar do escopo de treino, a aplicação foi desenhada para ser global. Você pode inserir a descrição da Pokédex de qualquer Pokémon de qualquer geração que o algoritmo realizará a previsão do tipo baseando-se nos padrões aprendidos.
 
 
